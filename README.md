@@ -34,7 +34,12 @@ Once the My ToDo List Chrome Extension is installed, follow these instructions t
 
 ## Preview
 <img src="ayush1.png">
+<hr>
 <img src="ayush2.png">
+<hr>
 <img src="ayush3.png">
+<hr>
+<img src="ayush4.png">
+<hr>
 
 
