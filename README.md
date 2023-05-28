@@ -41,5 +41,5 @@ Once the My ToDo List Chrome Extension is installed, follow these instructions t
 <hr>
 <img src="ayush4.png">
 <hr>
-
+<p align="center"> Made by Ayush Jain with ❤️</p>
 
