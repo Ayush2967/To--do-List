@@ -32,4 +32,9 @@ Once the My ToDo List Chrome Extension is installed, follow these instructions t
 1. Click on the extension icon in the Chrome toolbar to open the to-do list interface.
 2. To add new task click on the + icon and enter task details in the input field and click on Add Task button.
 
+## Preview
+<img src="ayush1.png">
+<img src="ayush2.png">
+<img src="ayush3.png">
+
 
